@@ -1,0 +1,1280 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+            "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+            "id": 100000007367744,
+            "asset_id": 100000007367744,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-09-30 20:13:25",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+            "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+            "des_facet": [
+                "Debates (Political)",
+                "United States Politics and Government",
+                "Absentee Voting"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e21fc06b-bb84-5fdc-a19d-ca88fccba824",
+            "url": "https://www.nytimes.com/2020/09/30/opinion/trump-biden-debate-2020.html",
+            "id": 100000007369893,
+            "asset_id": 100000007369893,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 20:52:13",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Debates (Political);Rumors and Misinformation;Absentee Voting;Right-Wing Extremism and Alt-Right;Biden, Joseph R Jr;Trump, Donald J;Wallace, Chris (1947- )",
+            "column": null,
+            "byline": "By The Editorial Board",
+            "type": "Article",
+            "title": "A Debate That Can\u2019t Be Ignored",
+            "abstract": "Americans need to face the man who is their president.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Debates (Political)",
+                "Rumors and Misinformation",
+                "Absentee Voting",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Wallace, Chris (1947- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/32d40ba0-d91d-5c3b-ae7b-49987278ff4c",
+            "url": "https://www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.html",
+            "id": 100000007363660,
+            "asset_id": 100000007363660,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 15:36:56",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Americans Abroad;Citizenship and Naturalization;United States Politics and Government;Trump, Donald J;Germany;Ireland;Lithuania;United States",
+            "column": null,
+            "byline": "By Jennifer Finney Boylan",
+            "type": "Article",
+            "title": "Will You Leave the Country if Trump Is Re-elected?",
+            "abstract": "A generation of Americans prepares to flee.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Americans Abroad",
+                "Citizenship and Naturalization",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Germany",
+                "Ireland",
+                "Lithuania",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alex Filipe/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1dc5d51b-f562-5714-bc62-67289411eba3",
+            "url": "https://www.nytimes.com/2020/09/29/opinion/ruth-bader-ginsburg-jewish.html",
+            "id": 100000007366999,
+            "asset_id": 100000007366999,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-09-30 17:26:38",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Jews and Judaism;United States Politics and Government;Ginsburg, Ruth Bader;Supreme Court (US)",
+            "column": null,
+            "byline": "By Jennifer Weiner",
+            "type": "Article",
+            "title": "The Very Jewish R.B.G.",
+            "abstract": "Back in the days of Clinton and Obama, Ginsburg\u2019s presence on the bench was a symbol of progress. In the days of Trump, she was a bulwark.",
+            "des_facet": [
+                "Jews and Judaism",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Ginsburg, Ruth Bader"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Wolf/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1c2da958-3f03-52a3-8d50-6cb9ad94e2ee",
+            "url": "https://www.nytimes.com/2020/09/30/opinion/biden-trump-2020-debate.html",
+            "id": 100000007367898,
+            "asset_id": 100000007367898,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 01:16:04",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Debates (Political);Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+            "column": null,
+            "byline": "By Frank Bruni",
+            "type": "Article",
+            "title": "After That Fiasco, Biden Should Refuse to Debate Trump Again",
+            "abstract": "The president was petulant and puerile, so what is the point?",
+            "des_facet": [
+                "Debates (Political)",
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times; photograph by Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/917ebb1e-e727-5125-b8ce-364595172b2e",
+            "url": "https://www.nytimes.com/article/latino-movies.html",
+            "id": 100000007346488,
+            "asset_id": 100000007346488,
+            "source": "New York Times",
+            "published_date": "2020-10-01",
+            "updated": "2020-10-01 20:20:20",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Movies;Hispanic-Americans;Race and Ethnicity;Puerto Ricans;Bratt, Benjamin;Bratt, Peter;Castillo, Raul;Esquenazi, Deborah S;Costantini, Cristina;Ferrera, America;Ibarra, Cristina;Perez, Richard Ray;Rivera, Alex (1973- );Rodriguez, Robert;Valdez, Rudy (Filmmaker)",
+            "column": null,
+            "byline": "By Carlos Aguilar",
+            "type": "Article",
+            "title": "The American Latino Experience: 20 Essential Films Since 2000",
+            "abstract": "In Hollywood, Hispanic stories usually mean ones from other countries. The features and documentaries on this list explore U.S. lives that deserve the spotlight, too.",
+            "des_facet": [
+                "Movies",
+                "Hispanic-Americans",
+                "Race and Ethnicity",
+                "Puerto Ricans"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bratt, Benjamin",
+                "Bratt, Peter",
+                "Castillo, Raul",
+                "Esquenazi, Deborah S",
+                "Costantini, Cristina",
+                "Ferrera, America",
+                "Ibarra, Cristina",
+                "Perez, Richard Ray",
+                "Rivera, Alex (1973- )",
+                "Rodriguez, Robert",
+                "Valdez, Rudy (Filmmaker)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From l-r: Dolores; Mosquita Y Mari; Gun Hill Road; Mucho Mucho Amor: The Legend of Walter Mercado",
+                    "copyright": "Illustration by Ricardo Santos; From left: George Ballis/Take Stock (&ldquo;Dolores&rdquo;); Film Collaborative (&ldquo;Mosquita Y Mari&rdquo;); Mykwain Gainey/Motion Film Group (&ldquo;Gun Hill Road&rdquo;); Netflix (&ldquo;Mucho Mucho Amor&rdquo;)",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/arts/04Latinx-Interior/04Latinx-Interior-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/arts/04Latinx-Interior/04Latinx-Interior-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/arts/04Latinx-Interior/04Latinx-Interior-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/edf8e8ec-52ca-5407-bcd2-440139ebcedb",
+            "url": "https://www.nytimes.com/2020/09/30/style/deepak-chopra-disagreement-advice.html",
+            "id": 100000007345826,
+            "asset_id": 100000007345826,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-09-30 18:06:52",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Content Type: Service;Social Media;Buddhism;Bullies;Meditation;your-feed-selfcare;Chopra, Deepak;La Jolla (Calif)",
+            "column": null,
+            "byline": "By Nicole Pajer",
+            "type": "Article",
+            "title": "How to Have a Disagreement Like an Adult, According to Deepak Chopra",
+            "abstract": "The longtime New Age celebrity has a working theory about how we can all get along. Your mileage may vary.",
+            "des_facet": [
+                "Content Type: Service",
+                "Social Media",
+                "Buddhism",
+                "Bullies",
+                "Meditation",
+                "your-feed-selfcare"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Chopra, Deepak"
+            ],
+            "geo_facet": [
+                "La Jolla (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Philip Cheung for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8cde129e-46e7-5c79-8022-e23d4cf19402",
+            "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-election.html",
+            "id": 100000007369574,
+            "asset_id": 100000007369574,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 14:37:54",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Absentee Voting;Voter Fraud (Election Fraud);Debates (Political);Rumors and Misinformation;Russian Interference in 2016 US Elections and Ties to Trump Associates;Cyberwarfare and Defense;Espionage and Intelligence Services;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Putin, Vladimir V;Russia",
+            "column": null,
+            "byline": "By David E. Sanger",
+            "type": "Article",
+            "title": "Tuesday\u2019s Debate Made Clear the Gravest Threat to the Election: The President Himself",
+            "abstract": "President Trump\u2019s unwillingness to say he would abide by the result and his disinformation campaign about election fraud went beyond anything President Vladimir V. Putin could have imagined.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Absentee Voting",
+                "Voter Fraud (Election Fraud)",
+                "Debates (Political)",
+                "Rumors and Misinformation",
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Cyberwarfare and Defense",
+                "Espionage and Intelligence Services",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Biden, Joseph R Jr",
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump last month at a rally in Mosinee, Wis. He said on Tuesday that balloting already underway was \u201ca fraud and a shame\u201d and proof of \u201ca rigged election.\u201d",
+                    "copyright": "Al Drago for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/56400ef1-7539-5bee-b263-31237adff8be",
+            "url": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
+            "id": 100000007364836,
+            "asset_id": 100000007364836,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-09-30 01:30:27",
+            "section": "Climate",
+            "subsection": "",
+            "nytdsection": "climate",
+            "adx_keywords": "Research;Fusion (Nuclear Reaction);Global Warming;Journal of Plasma Physics;Massachusetts Institute of Technology;Commonwealth Fusion Systems LLC",
+            "column": null,
+            "byline": "By Henry Fountain",
+            "type": "Article",
+            "title": "Compact Nuclear Fusion Reactor Is \u2018Very Likely to Work,\u2019 Studies Suggest",
+            "abstract": "A series of research papers renews hope that the long-elusive goal of mimicking the way the sun produces energy might be achievable.",
+            "des_facet": [
+                "Research",
+                "Fusion (Nuclear Reaction)",
+                "Global Warming"
+            ],
+            "org_facet": [
+                "Journal of Plasma Physics",
+                "Massachusetts Institute of Technology",
+                "Commonwealth Fusion Systems LLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A stainless steel vacuum chamber that is part of the International Thermonuclear Experimental Reactor, a large fusion energy project being built in Southern France.",
+                    "copyright": "Clement Mahoudeau/Agence France-Presse \u2014 Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8b797782-f8be-5a87-81eb-cc5c4b75f594",
+            "url": "https://www.nytimes.com/2020/09/29/opinion/covid-pandemic-us-response.html",
+            "id": 100000007359076,
+            "asset_id": 100000007359076,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-09-30 21:30:44",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Coronavirus Reopenings;Quarantines;Epidemics;Tests (Medical);Masks;Bush, George W;Obama, Barack;Trump, Donald J;Centers for Disease Control and Prevention;United States;China;New York City;Europe",
+            "column": null,
+            "byline": "By Johnny Harris, Nicholas Kristof and Adam B. Ellick",
+            "type": "Article",
+            "title": "How America Lost 200,000 Lives to Covid-19",
+            "abstract": "The U.S. spent 15 years preparing for the coronavirus. Why did we handle it so badly?",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Deaths (Fatalities)",
+                "Coronavirus Reopenings",
+                "Quarantines",
+                "Epidemics",
+                "Tests (Medical)",
+                "Masks"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [
+                "Bush, George W",
+                "Obama, Barack",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States",
+                "China",
+                "New York City",
+                "Europe"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6ba227ef-3f4c-59ad-ae73-897342f517f2",
+            "url": "https://www.nytimes.com/2020/09/30/world/europe/swearing-parrots-lincolnshire.html",
+            "id": 100000007369447,
+            "asset_id": 100000007369447,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 19:37:09",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Parrots;Indecency, Obscenity and Profanity;Lincolnshire Wildlife Park (Friskney, England);Great Britain",
+            "column": null,
+            "byline": "By Daniel Victor",
+            "type": "Article",
+            "title": "Foul-Mouthed Parrots to Return to Park, Possibly Reformed",
+            "abstract": "Five birds who moved to an English park had unprintable vocabularies, which they deployed on amused guests. Keepers said the parrots also learned to laugh at one another.",
+            "des_facet": [
+                "Parrots",
+                "Indecency, Obscenity and Profanity"
+            ],
+            "org_facet": [
+                "Lincolnshire Wildlife Park (Friskney, England)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Billy, one of the five parrots at the Lincolnshire Wildlife Park in Friskney, England, that has been swearing at visitors. \u201cBilly is the worst one,\u201d a park official said.\u00a0",
+                    "copyright": "Lincolnshire Wildlife Park",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/635bc434-89fc-5304-b3c7-a654591efdc0",
+            "url": "https://www.nytimes.com/2020/09/29/us/college-student-dies-covid.html",
+            "id": 100000007368683,
+            "asset_id": 100000007368683,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-09-30 16:51:46",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Guillain-Barre Syndrome;Colleges and Universities;Dorrill, Chad (d 2020);Appalachian State University;Boone (NC)",
+            "column": null,
+            "byline": "By Shawn Hubler",
+            "type": "Article",
+            "title": "\u2018Super Healthy\u2019 College Student Dies of Rare Covid-19 Complications",
+            "abstract": "Chad Dorrill, a 19-year-old at Appalachian State, recovered from flulike symptoms but then developed neurological problems.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Deaths (Fatalities)",
+                "Guillain-Barre Syndrome",
+                "Colleges and Universities"
+            ],
+            "org_facet": [
+                "Appalachian State University"
+            ],
+            "per_facet": [
+                "Dorrill, Chad (d 2020)"
+            ],
+            "geo_facet": [
+                "Boone (NC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chad Dorrill died of neurological complications related to Covid-19. His uncle said Mr. Dorrill\u2019s legs didn\u2019t work when he tried to get out of bed.",
+                    "copyright": "Yasmin Leonard Photography",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a2b8bd1f-47aa-59cc-9199-0b3a155eb54e",
+            "url": "https://www.nytimes.com/2020/09/28/well/eat/a-potential-downside-of-intermittent-fasting.html",
+            "id": 100000007359088,
+            "asset_id": 100000007359088,
+            "source": "New York Times",
+            "published_date": "2020-09-28",
+            "updated": "2020-09-30 16:34:05",
+            "section": "Well",
+            "subsection": "Eat",
+            "nytdsection": "well",
+            "adx_keywords": "Fasting;Weight;Obesity;Diet and Nutrition;Muscles;Calories;JAMA Internal Medicine (Journal)",
+            "column": null,
+            "byline": "By Anahad O\u2019Connor",
+            "type": "Article",
+            "title": "A Potential Downside of Intermittent Fasting",
+            "abstract": "A rigorous three-month study found that people lost little weight, and much of that may have been from muscle.",
+            "des_facet": [
+                "Fasting",
+                "Weight",
+                "Obesity",
+                "Diet and Nutrition",
+                "Muscles",
+                "Calories"
+            ],
+            "org_facet": [
+                "JAMA Internal Medicine (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chiara Zarmati",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b6daed18-6bf3-5352-b466-36562e3f511e",
+            "url": "https://www.nytimes.com/2020/09/30/opinion/presidential-debate-trump-biden.html",
+            "id": 100000007367931,
+            "asset_id": 100000007367931,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 01:16:07",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Trump Tax Returns;Right-Wing Extremism and Alt-Right;Coronavirus (2019-nCoV);Coronavirus Reopenings;Biden, Joseph R Jr;Trump, Donald J;Democratic Party;Proud Boys;Republican Party;Supreme Court (US);United States",
+            "column": null,
+            "byline": "By The New York Times Opinion",
+            "type": "Article",
+            "title": "Biden and Trump\u2019s First Debate: Best and Worst Moments",
+            "abstract": "How Round 1 looked to Times Opinion writers.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Trump Tax Returns",
+                "Right-Wing Extremism and Alt-Right",
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Reopenings"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Proud Boys",
+                "Republican Party",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times; photographs by Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f6599037-56c4-5a4f-8374-c9312fbe4208",
+            "url": "https://www.nytimes.com/2020/10/01/t-magazine/sag-harbor.html",
+            "id": 100000007346417,
+            "asset_id": 100000007346417,
+            "source": "New York Times",
+            "published_date": "2020-10-01",
+            "updated": "2020-10-01 21:07:56",
+            "section": "T Magazine",
+            "subsection": "",
+            "nytdsection": "t magazine",
+            "adx_keywords": "Black People;Families and Family Life;Historic Buildings and Sites;Real Estate and Housing (Residential);Sag Harbor (NY)",
+            "column": null,
+            "byline": "By Sandra E. Garcia",
+            "type": "Article",
+            "title": "On Long Island, a Beachfront Haven for Black Families",
+            "abstract": "In the 1930s, a group of trailblazing African-Americans bought plots for themselves in Sag Harbor, establishing a close-knit community that\u2019s spanned multiple generations.",
+            "des_facet": [
+                "Black People",
+                "Families and Family Life",
+                "Historic Buildings and Sites",
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Sag Harbor (NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Pickens III with his son John on their private beach.",
+                    "copyright": "Jon Henry",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e84998fc-6866-5c3b-a8a8-5de9e863aa20",
+            "url": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html",
+            "id": 100000007352137,
+            "asset_id": 100000007352137,
+            "source": "New York Times",
+            "published_date": "2020-09-29",
+            "updated": "2020-10-01 19:03:57",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Deaths (Fatalities);Quarantines;Shutdowns (Institutional);Masks;Sweden;Stockholm (Sweden)",
+            "column": null,
+            "byline": "By Thomas Erdbrink",
+            "type": "Article",
+            "title": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
+            "abstract": "After having weathered high death rates when it resisted a lockdown in the spring, Sweden now has one of Europe\u2019s lowest rates of daily new cases. Whether that is an aberration remains to be seen.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Deaths (Fatalities)",
+                "Quarantines",
+                "Shutdowns (Institutional)",
+                "Masks"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Sweden",
+                "Stockholm (Sweden)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stockholm, this month. In Sweden, the number of new infections right now is surprisingly low.",
+                    "copyright": "Elisabeth Ubbe for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/00virus-sweden-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/merlin_176723451_39741532-5790-40eb-b0c4-e38de93669d5-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/merlin_176723451_39741532-5790-40eb-b0c4-e38de93669d5-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/eafd842f-80bd-571e-a3f0-3f4d9aace2a9",
+            "url": "https://www.nytimes.com/2020/09/30/magazine/trump-voter-fraud.html",
+            "id": 100000007362044,
+            "asset_id": 100000007362044,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 11:23:52",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);Voter Registration and Requirements;Appointments and Executive Changes;Absentee Voting;Presidential Election of 2016;Midterm Elections (2018);Black People;Elections, House of Representatives;Elections, Senate;United States Politics and Government;Voting Rights Act (1965);Elections, Secretary of State;Elections, State Legislature;Postal Service and Post Offices;Civil Rights and Liberties;Democracy (Theory and Philosophy);Elections, Governors;Barr, William P;Trump, Donald J",
+            "column": null,
+            "byline": "By Jim Rutenberg",
+            "type": "Article",
+            "title": "How Trump\u2019s \u2018Voter Fraud\u2019 Lie Is Disenfranchising Americans",
+            "abstract": "The president is harnessing the power of the government, from the Department of Homeland Security to the Postal Service, to disrupt the election. Read the magazine\u2019s five-month investigation.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Voter Fraud (Election Fraud)",
+                "Voter Registration and Requirements",
+                "Appointments and Executive Changes",
+                "Absentee Voting",
+                "Presidential Election of 2016",
+                "Midterm Elections (2018)",
+                "Black People",
+                "Elections, House of Representatives",
+                "Elections, Senate",
+                "United States Politics and Government",
+                "Voting Rights Act (1965)",
+                "Elections, Secretary of State",
+                "Elections, State Legislature",
+                "Postal Service and Post Offices",
+                "Civil Rights and Liberties",
+                "Democracy (Theory and Philosophy)",
+                "Elections, Governors"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Barr, William P",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Concept by Tracy Ma",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-fraud-still/04mag-fraud-still-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-fraud-still/04mag-fraud-still-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-fraud-still/04mag-fraud-still-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e467c2ae-2df3-5836-a6ca-b23d0d335e4f",
+            "url": "https://www.nytimes.com/2020/09/30/opinion/presidential-debate-trump.html",
+            "id": 100000007371053,
+            "asset_id": 100000007371053,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 20:18:05",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Debates (Political);Biden, Joseph R Jr;Trump, Donald J",
+            "column": null,
+            "byline": "By Gail Collins",
+            "type": "Article",
+            "title": "Anyone Else Want to See Trump \u2018Shut Up\u2019?",
+            "abstract": "Our president as a terrible toddler.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Debates (Political)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times; photographs by Ruth Fremson/The New York Times.",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/sunday/30collins-treated/30collins-treated-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/sunday/30collins-treated/30collins-treated-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/opinion/sunday/30collins-treated/30collins-treated-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b421f55b-4bdb-5c5b-b53d-8fe035bb2744",
+            "url": "https://www.nytimes.com/2020/09/30/health/pfizer-covid-vaccine.html",
+            "id": 100000007365101,
+            "asset_id": 100000007365101,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-09-30 12:29:48",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Clinical Trials;Drugs (Pharmaceuticals);United States Politics and Government;your-feed-healthcare;your-feed-science;Bourla, Albert;Trump, Donald J;Pfizer Inc;Food and Drug Administration;Moderna Inc",
+            "column": null,
+            "byline": "By Katie Thomas",
+            "type": "Article",
+            "title": "All Eyes Are on Pfizer as Trump Pushes for Vaccine by October",
+            "abstract": "Despite slim chances that its vaccine will be ready by October, Pfizer has big incentives to hint that it might be.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Clinical Trials",
+                "Drugs (Pharmaceuticals)",
+                "United States Politics and Government",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "Food and Drug Administration",
+                "Moderna Inc"
+            ],
+            "per_facet": [
+                "Bourla, Albert",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "By repeating a date that flies in the face of most scientific predictions, Pfizer\u2019s C.E.O., Dr. Albert Bourla, is making a high-stakes gamble.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/28/science/00VIRUS-PFIZER02/00VIRUS-PFIZER02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/28/science/00VIRUS-PFIZER02/merlin_151291872_5369129f-716b-4180-8e83-d923a2b99b7d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/28/science/00VIRUS-PFIZER02/merlin_151291872_5369129f-716b-4180-8e83-d923a2b99b7d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fbe9b054-0f99-5441-9718-2a3771cbc0aa",
+            "url": "https://www.nytimes.com/2020/09/30/world/europe/trump-biden-debate-global-reaction.html",
+            "id": 100000007369334,
+            "asset_id": 100000007369334,
+            "source": "New York Times",
+            "published_date": "2020-09-30",
+            "updated": "2020-10-01 09:59:03",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Debates (Political);Presidential Election of 2020;United States International Relations;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Europe;China;Japan;Singapore",
+            "column": null,
+            "byline": "By Steven Erlanger",
+            "type": "Article",
+            "title": "Trump-Biden Debate Prompts Shock, Despair and, in China, Glee",
+            "abstract": "The chaos of the event has left allies and rivals alike questioning the state of American democracy and the country\u2019s place on the global stage.",
+            "des_facet": [
+                "Debates (Political)",
+                "Presidential Election of 2020",
+                "United States International Relations",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Europe",
+                "China",
+                "Japan",
+                "Singapore"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The debate on Tuesday between President Trump and Joseph R. Biden Jr. strengthened impressions abroad that the United States has retreated from the global stage.",
+                    "copyright": "Jordan Gale for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/world/30debate-global01/30debate-global01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/world/30debate-global01/merlin_177818529_a9eafaee-5e45-4a92-b437-2d1c1ee6cbe8-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/09/30/world/30debate-global01/merlin_177818529_a9eafaee-5e45-4a92-b437-2d1c1ee6cbe8-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
